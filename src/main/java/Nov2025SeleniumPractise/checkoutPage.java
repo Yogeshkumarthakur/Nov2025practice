@@ -6,4 +6,5 @@ public class checkoutPage {
 
 	int i = 100;
 	By name = By.name("abc");
+	By surname = By.name("abc surname");
 }
